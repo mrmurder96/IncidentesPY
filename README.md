@@ -28,9 +28,9 @@ Aplicación de escritorio en **Python** para registrar y gestionar incidencias t
 ## Requisitos
 
 - Python 3.10 o superior (recomendado)
-- Librerías usadas por la interfaz (según tu implementación)
+- Dependencias listadas en `requirements.txt`
 
-> Si al ejecutar aparece algún error de dependencias, instala los paquetes faltantes con `pip install <paquete>`.
+> Recomendación: usar entorno virtual para evitar conflictos de paquetes.
 
 ## Ejecución
 
@@ -42,6 +42,26 @@ cd IncidentesPY
 ```
 
 2. Instala dependencias:
+
+```bash
+python -m venv .venv
+```
+
+Activa el entorno virtual:
+
+- Windows (PowerShell):
+
+```bash
+.\.venv\Scripts\Activate.ps1
+```
+
+- Linux/macOS:
+
+```bash
+source .venv/bin/activate
+```
+
+Luego instala dependencias:
 
 ```bash
 pip install -r requirements.txt
