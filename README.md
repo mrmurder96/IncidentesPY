@@ -41,7 +41,13 @@ git clone https://github.com/mrmurder96/IncidentesPY.git
 cd IncidentesPY
 ```
 
-2. Ejecuta la aplicación principal:
+2. Instala dependencias:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Ejecuta la aplicación principal:
 
 ```bash
 python Login.py
