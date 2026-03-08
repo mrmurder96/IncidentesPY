@@ -1,0 +1,32 @@
+{
+    "josuead": {
+        "username": "josuead",
+        "password": "1234",
+        "Rango": "Administrador",
+        "Correo": "hidalgo96@hotmail.it"
+    },
+    "josuetc": {
+        "username": "josuetc",
+        "password": "1234",
+        "Rango": "Tecnico",
+        "Correo": "hidalgo96@hotmail.it"
+    },
+    "josueag": {
+        "username": "josueag",
+        "password": "1234",
+        "Rango": "Agente",
+        "Correo": "hidalgo96@hotmail.it"
+    },
+    "Erick": {
+        "username": "Erick",
+        "password": "1234",
+        "Rango": "Tecnico",
+        "Correo": "hidalgo96@hotmail.it"
+    },
+    "Marck": {
+        "username": "Marck",
+        "password": "1234",
+        "Rango": "Tecnico",
+        "Correo": "hidalgo96@hotmail.it"
+    }
+}
